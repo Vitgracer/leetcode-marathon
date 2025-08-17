@@ -2,6 +2,8 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/your-username/leetcode-solutions?color=green)
 ![GitHub stars](https://img.shields.io/github/stars/your-username/leetcode-solutions?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/your-username/leetcode-solutions?style=social)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C.svg?logo=cplusplus&logoColor=white)
 
 # 🚀 My LeetCode Solutions
 
