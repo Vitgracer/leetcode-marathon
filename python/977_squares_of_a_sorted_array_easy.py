@@ -8,5 +8,3 @@ class Solution(object):
         for i in nums:
             nums_new.append(i**2)
         return sorted(nums_new)
-    
-        

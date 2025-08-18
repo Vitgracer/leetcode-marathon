@@ -25,11 +25,4 @@ class Solution(object):
                 nums1[i] = nums2[n_cur]
                 n_cur -= 1        
         
-        return 
-    
-solution = Solution()
-nums1 = [0]
-m = 0
-nums2 = [1]
-n = 1
-solution.merge(nums1, m, nums2, n)
+        return
