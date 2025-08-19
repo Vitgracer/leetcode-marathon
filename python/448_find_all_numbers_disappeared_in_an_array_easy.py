@@ -10,7 +10,7 @@ https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
 # elegant solution with o(1) in memory
 class Solution(object):
     def findDisappearedNumbers(self, nums):
-        for i, num in enumerate(nums):
+        for num in nums:
             index = abs(num) - 1
 
             if nums[index] > 0:
