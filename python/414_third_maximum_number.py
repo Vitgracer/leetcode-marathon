@@ -2,6 +2,7 @@
 https://leetcode.com/problems/third-maximum-number/description/
 """
 
+# much easier to do with set + sort 
 class Solution(object):
     def thirdMax(self, nums):
         max_el_list = [nums[0]]
