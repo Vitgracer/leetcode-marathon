@@ -7,6 +7,3 @@ class Solution(object):
         for i in range(len(s) // 2):
             s[i], s[-(1 + i)] = s[-(1 + i)], s[i]
         return s
-
-sol = Solution()
-sol.reverseString(["h","e","l","l","o"])

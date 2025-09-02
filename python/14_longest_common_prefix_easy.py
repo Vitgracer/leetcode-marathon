@@ -18,6 +18,3 @@ class Solution(object):
             else:
                 break
         return common_prefix
-
-sol = Solution()
-sol.longestCommonPrefix(["cir","car"])

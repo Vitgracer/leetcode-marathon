@@ -25,6 +25,3 @@ class Solution(object):
             return max_ind
         else:
             return -1
-
-sol = Solution()
-sol.dominantIndex([[0,0,0,1]])
