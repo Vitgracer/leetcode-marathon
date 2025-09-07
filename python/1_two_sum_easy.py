@@ -9,7 +9,3 @@ class Solution(object):
                 return d[val], i
             else:
                 d[target - val] = i
-
-sol = Solution()
-sol.twoSum([2,7,11,15], 9)
-        
