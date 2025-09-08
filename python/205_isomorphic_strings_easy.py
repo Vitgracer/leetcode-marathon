@@ -23,6 +23,3 @@ class Solution(object):
                 if d_s[s_val] != t_val:
                     return False
         return True
-            
-sol = Solution()
-sol.isIsomorphic("badc", "baba")
